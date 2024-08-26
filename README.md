@@ -40,7 +40,7 @@ Feel free to check out my repositories to see more of what I've been working on!
 ## 🔗 Links
 
 - [LinkedIn](Your LinkedIn URL)
-- [Portfolio](gawxgd.github.io)
+- [Portfolio](https://gawxgd.github.io/)
 - [Email](mailto:marcin.gronicki@gmail.com)
 
 Thanks for visiting my GitHub profile! 🚀
