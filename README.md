@@ -1,6 +1,6 @@
 
-## Hi there! 👋 I'm Marcin Gronickis,
-a passionate Computer Science student currently in my third year of study. I love exploring new technologies and working on interesting projects. Here's a bit more about me and my skills.
+## Hi there! 👋 I'm Marcin Gronicki,
+passionate Computer Science student currently in my third year of study. I love exploring new technologies and working on interesting projects. Here's a bit more about me and my skills.
 
 ## 🚀 About Me
 
