@@ -31,7 +31,7 @@ I'm a dedicated and enthusiastic student with a deep interest in software develo
 
 Here are some of the projects I've worked on:
 
-- **[Project Name 1](Link to Project)**: Brief description of the project and the technologies used.
+- **[Spotify Game](https://github.com/gawxgd/SpotifyApiMGame)**: Multiplayer tcp/ip game using Spotify API, C# and Avalonia.
 - **[Project Name 2](Link to Project)**: Brief description of the project and the technologies used.
 - **[Project Name 3](Link to Project)**: Brief description of the project and the technologies used.
 
