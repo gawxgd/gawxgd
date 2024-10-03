@@ -39,7 +39,6 @@ Feel free to check out my repositories to see more of what I've been working on!
 
 ## 🔗 Links
 
-- [LinkedIn](Your LinkedIn URL)
 - [Portfolio](https://gawxgd.github.io/)
 - [Email](mailto:marcin.gronicki@gmail.com)
 
