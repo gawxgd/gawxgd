@@ -31,9 +31,8 @@ I'm a dedicated and enthusiastic student with a deep interest in software develo
 
 Here are some of the projects I've worked on:
 
-- **[Spotify Game](https://github.com/gawxgd/SpotifyApiMGame)**: Multiplayer tcp/ip game using Spotify API, C# and Avalonia.
-- **[Group Chat](https://github.com/gawxgd/GroupChat)** **[Group Chat Server](https://github.com/gawxgd/GroupChatServerWorking)**: TCP/IP group chat, with server application allowing to manage connected clients, C#, Windows Forms, TCP/IP.
-- **[Image Labeling](https://github.com/gawxgd/Image-Labeling)**: Application that allows browsing images saved on disk and then adding to them colored and named labels C# WPF.
+- **[Spotify Flutter](https://github.com/gawxgd/SpotifyFlutter)**: Multiplayer webRtc(peer2peer) mobile game using Spotify API and Flutter.
+- **[CarRental](https://github.com/gawxgd/CarRental)**: Complete car rental solution (ASP .Net Core, Blazor WASM)
 
 Feel free to check out my repositories to see more of what I've been working on!
 
