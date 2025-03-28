@@ -16,8 +16,6 @@ Here are some of the projects that I am currently working on:
 - **AutoFund** – An automatic solution for stock prediction using ensemble of LGBMRegressor models in the NumberAI competition.  
 - **NeuroSpeech** – A PyTorch-based neural network for speech recognition.  
 - **Full-Stack Newspaper Agency Solution** – A Flutter and ASP.NET Core application for managing a newspaper agency (both internal (article creation, reviewas) and external (newspaper subscription etc).  
-
-Feel free to check out my repositories to see more of what I've been working on!
 ## 🛠️ Skills
 
 ### Languages
